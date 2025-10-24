@@ -28,6 +28,6 @@ Uygulama kapatılıp açıldığında son arama metni ve favoriler **localStorag
 - Vite  
 - LocalStorage ile veri kalıcılığı
 
-## Gekiştirici
+## Geliştirici
 Süleyman Doğukan Dursoy - 2311012016
 
