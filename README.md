@@ -26,5 +26,4 @@ Uygulama kapatılıp açıldığında son arama metni ve favoriler **localStorag
 
 - React 19.x  
 - Vite  
-- CSS (Flexbox ile responsive tasarım)  
 - LocalStorage ile veri kalıcılığı  
