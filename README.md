@@ -26,4 +26,8 @@ Uygulama kapatılıp açıldığında son arama metni ve favoriler **localStorag
 
 - React 19.x  
 - Vite  
-- LocalStorage ile veri kalıcılığı  
+- LocalStorage ile veri kalıcılığı
+
+## Gekiştirici
+Süleyman Doğukan Dursoy - 2311012016
+
